@@ -1,15 +1,23 @@
-# Hi, I'm Alex 👋
+### Hi, I'm Alex 👋
 
-I'm building **Kenya Climate Data Lab** — an open-source machine-learning project predicting maize yield for Kenyan counties from climate data.
+I'm a Kenyan high school student building **Kenya Climate Data Lab** — an open-source machine learning project to predict maize yield across all 47 Kenyan counties using climate data.
 
-[![View Project](https://img.shields.io/badge/Kenya_Climate_Data_Lab-View_Project-2ea44f?style=for-the-badge)](https://github.com/alexharonyandega-dev/kenya-climate-data-lab)
+The project is a 72-week public build. You can follow the journey here:
 
-## Find me
-
-[![X](https://img.shields.io/badge/X-@KenyaClimateLab-000000?style=for-the-badge&logo=x)](https://x.com/KenyaClimateLab)
-[![Instagram](https://img.shields.io/badge/Instagram-@kenyaclimatedatalab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenyaclimatedatalab/)
-[![Email](https://img.shields.io/badge/Email-alexharonyandega@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexharonyandega@gmail.com)
+- 📝 **Weekly Journal:** [kenyaclimatelab.substack.com](https://kenyaclimatelab.substack.com)
+- 🐦 **X / Twitter:** [@KenyaClimateLab](https://x.com/KenyaClimateLab)
+- 💻 **Project Repository:** [kenya-climate-data-lab](https://github.com/alexharonyandega-dev/kenya-climate-data-lab)
 
 ---
 
-📍 Kenya · 🌾 Food security · 🧠 Machine learning
+### What I'm working on
+
+Currently in **Phase 1 (Foundation)** of the project, focused on data acquisition, cleaning, and building the first models. The goal is to produce a county-level maize yield prediction tool that is free, open, and useful to farmers, researchers, and policymakers in Kenya.
+
+---
+
+### Get in touch
+
+The best way to reach me is by replying to any post on the [Substack](https://kenyaclimatelab.substack.com). I read every message.
+
+Or you can email me: **alexharonyandega@gmail.com**
