@@ -4,9 +4,26 @@ I'm a Kenyan high school student building **Kenya Climate Data Lab** — an open
 
 The project is a 72-week public build. You can follow the journey here:
 
-- 📝 **Weekly Journal:** [kenyaclimatelab.substack.com](https://kenyaclimatelab.substack.com)
-- 🐦 **X / Twitter:** [@KenyaClimateLab](https://x.com/KenyaClimateLab)
-- 💻 **Project Repository:** [kenya-climate-data-lab](https://github.com/alexharonyandega-dev/kenya-climate-data-lab)
+<p align="left">
+  <a href="https://kenyaclimatelab.substack.com">
+    <img src="https://img.shields.io/badge/Substack-Kenya%20Climate%20Lab-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
+  </a>
+  <a href="https://x.com/KenyaClimateLab">
+    <img src="https://img.shields.io/badge/X-@KenyaClimateLab-000000?style=for-the-badge&logo=x" alt="Follow on X">
+  </a>
+  <a href="https://www.instagram.com/kenyaclimatedatalab/">
+    <img src="https://img.shields.io/badge/Instagram-@kenyaclimatedatalab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/alexharonyandega-dev/kenya-climate-data-lab">
+    <img src="https://img.shields.io/badge/Project-Kenya%20Climate%20Data%20Lab-2ea44f?style=for-the-badge&logo=github" alt="Project Repo">
+  </a>
+  <a href="mailto:alexharonyandega@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alexharonyandega@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
