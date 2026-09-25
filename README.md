@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I'm a Kenyan high school student building **Kenya Climate Data Lab** — an open-source machine learning project to predict maize yield across all 47 Kenyan counties using climate data.
+I'm a Kenyan high school student building **Kenya Climate Data Lab** — an open source machine learning project to predict maize yield across all 47 Kenyan counties using climate data.
 
 The project is a 72-week public build. You can follow the journey here:
 
@@ -10,9 +10,6 @@ The project is a 72-week public build. You can follow the journey here:
   </a>
   <a href="https://x.com/KenyaClimateLab">
     <img src="https://img.shields.io/badge/X-@KenyaClimateLab-000000?style=for-the-badge&logo=x" alt="Follow on X">
-  </a>
-  <a href="https://www.instagram.com/kenyaclimatedatalab/">
-    <img src="https://img.shields.io/badge/Instagram-@kenyaclimatedatalab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
   </a>
 </p>
 
