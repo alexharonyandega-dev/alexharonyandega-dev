@@ -27,15 +27,28 @@ In 2022, 31 Kenyan counties experienced severe drought. Only **8** experienced s
 
 `swvl1_mean_anomaly` at time *t−1* predicts `ndvi_anomaly` at time *t* with **r = 0.461** (95% CI [0.436, 0.485], p = 6e-223). Entirely temporal — survives county demeaning without shrinkage.
 
-Both findings are hardened: 28 weight combinations tested, within-county verification, 1,000-resample bootstrap.
+**3. The tool is a drought monitor, not a yield predictor.**
+
+I tried to validate the stress index against KNBS county yield data. Every meaningful test came back null, wrong-signed, or untestable. One county — Kakamega — had the mildest 2022 stress and the worst yield crash (−42.5%). The cause was a fall armyworm outbreak, confirmed in the National Agriculture Production Report 2025, page 31. The tool caught the drought. It cannot see the pest.
+
+I documented the full null result publicly: [I Tried to Validate My Tool. It Failed.](https://kenyaclimatelab.substack.com/p/i-tried-to-validate-my-tool-it-failed)
+
+All three findings are hardened: 28 weight combinations tested, within-county verification, 1,000-resample bootstrap.
 
 ## Current status
 
-- **Phase:** Foundation — Week 4 of 72
+- **Phase:** Foundation — Week 5 of 72
 - **Master table:** 4,512 rows × 27 columns (47 counties × 96 months)
 - **Weekly product:** 19,599 rows
 - **Validation:** 2022 Horn of Africa drought detected without calibration
-- **Next:** Formal validation against KNBS county yield data
+- **Null result:** stress index does not predict county-level yield loss (documented)
+- **Next:** Draft the preprint abstract and methods section
+
+## Public writing
+
+- [I Tried to Validate My Tool. It Failed.](https://kenyaclimatelab.substack.com/p/i-tried-to-validate-my-tool-it-failed) — the null result
+- [An open letter to Kenya's county agriculture officers](https://kenyaclimatelab.substack.com/p/an-open-letter-to-kenyas-county-agriculture) — the ask
+- [Kenya Climate Data Lab on Substack](https://kenyaclimatelab.substack.com)
 
 ## Tech I use
 
@@ -59,6 +72,7 @@ Or email me: **alexharonyandega@gmail.com**
 ## What I need
 
 I'm looking for:
+
 - **County agriculture officers** — 20 minutes to tell me what signal would make you act
 - **County-level maize yield records** — any format, any county
 - **Developers** — the repo is MIT licensed, the decisions log tells you why every choice was made
