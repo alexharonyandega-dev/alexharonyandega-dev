@@ -27,13 +27,21 @@ In 2022, 31 Kenyan counties experienced severe drought. Only **8** experienced s
 
 `swvl1_mean_anomaly` at time *t−1* predicts `ndvi_anomaly` at time *t* with **r = 0.461** (95% CI [0.436, 0.485], p = 6e-223). Entirely temporal — survives county demeaning without shrinkage.
 
-**3. The tool is a drought monitor, not a yield predictor.**
+**3. The tool covers a drought regime NDMA does not classify.**
+
+Kenya's National Drought Management Authority tracks pastoral drought in 23 ASAL counties. In October 2022, NDMA flagged 11 counties as Alarm — all in the arid north. The monitor flagged a completely different set of 10 counties — the highland maize belt and the coast. Zero overlap.
+
+CHIRPS verification: monitor counties averaged October 2022 rainfall z-score of −1.14; NDMA counties averaged −0.71. Both groups were in drought. The two systems track different things — NDMA by cumulative pastoral impact, the monitor by current-month rainfall and vegetation anomaly for all 47 counties.
+
+The tool is complementary to NDMA, not competing. Cross-checked against NDMA, CCRP, TAMSAT, and KMD.
+
+**4. The tool is a drought monitor, not a yield predictor.**
 
 I tried to validate the stress index against KNBS county yield data. Every meaningful test came back null, wrong-signed, or untestable. One county — Kakamega — had the mildest 2022 stress and the worst yield crash (−42.5%). The cause was a fall armyworm outbreak, confirmed in the National Agriculture Production Report 2025, page 31. The tool caught the drought. It cannot see the pest.
 
-I documented the full null result publicly: [I Tried to Validate My Tool. It Failed.](https://kenyaclimatelab.substack.com/p/i-tried-to-validate-my-tool-it-failed)
+Documented publicly: [I Tried to Validate My Tool. It Failed.](https://kenyaclimatelab.substack.com/p/i-tried-to-validate-my-tool-it-failed)
 
-All three findings are hardened: 28 weight combinations tested, within-county verification, 1,000-resample bootstrap.
+All findings are hardened: 28 weight combinations tested, within-county verification, 1,000-resample bootstrap, CHIRPS rainfall verification.
 
 ## Current status
 
