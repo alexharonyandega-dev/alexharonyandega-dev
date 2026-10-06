@@ -36,6 +36,8 @@ CHIRPS verification: monitor counties averaged October 2022 rainfall z-score of 
 
 The tool is complementary to NDMA, not competing. Cross-checked against NDMA, CCRP, TAMSAT, and KMD.
 
+**Preprint draft:** The methods and validation sections are complete (3,018 words, 4 figures). Draft at `paper/draft_v1.md` in the main repo.
+
 **4. The tool is a drought monitor, not a yield predictor.**
 
 I tried to validate the stress index against KNBS county yield data. Every meaningful test came back null, wrong-signed, or untestable. One county — Kakamega — had the mildest 2022 stress and the worst yield crash (−42.5%). The cause was a fall armyworm outbreak, confirmed in the National Agriculture Production Report 2025, page 31. The tool caught the drought. It cannot see the pest.
