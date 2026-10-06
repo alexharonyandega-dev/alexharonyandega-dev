@@ -8,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kenya%20Climate%20Data%20Lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexharonyandega-dev/kenya-climate-data-lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Haro%20Nyandega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexharonyandega)
 
+**Preprint draft:** The methods and validation sections are complete (3,018 words, 4 figures). Draft at `paper/draft_v1.md` in the main repo.
+
 ---
 
 ## What I'm building
@@ -35,8 +37,6 @@ Kenya's National Drought Management Authority tracks pastoral drought in 23 ASAL
 CHIRPS verification: monitor counties averaged October 2022 rainfall z-score of −1.14; NDMA counties averaged −0.71. Both groups were in drought. The two systems track different things — NDMA by cumulative pastoral impact, the monitor by current-month rainfall and vegetation anomaly for all 47 counties.
 
 The tool is complementary to NDMA, not competing. Cross-checked against NDMA, CCRP, TAMSAT, and KMD.
-
-**Preprint draft:** The methods and validation sections are complete (3,018 words, 4 figures). Draft at `paper/draft_v1.md` in the main repo.
 
 **4. The tool is a drought monitor, not a yield predictor.**
 
