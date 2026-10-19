@@ -25,7 +25,5 @@ My research (currently being prepared for preprint) uncovered three critical ins
 3.  **Complementary to NDMA:** The monitor tracks crop-region vegetation stress in all 47 counties, complementing NDMA's pastoral drought tracking.
 
 ### 📫 Connect with me
-[![Substack](https://img.shields.io/badge/Substack-Kenya%20Climate%20Lab-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://kenyaclimatelab.substack.com)
-[![X](https://img.shields.io/badge/X-@KenyaClimateLab-000000?style=for-the-badge&logo=x)](https://x.com/KenyaClimateLab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Haro%20Nyandega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexharonyandega)
 [![Email](https://img.shields.io/badge/Email-alex@kenyaclimatelab.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@kenyaclimatelab.me)
